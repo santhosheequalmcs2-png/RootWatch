@@ -38,3 +38,21 @@
     transition-duration: 0.01ms !important;
   }
 }
+
+.rw-scroll::-webkit-scrollbar {
+  height: 5px;
+  width: 5px;
+}
+
+.rw-scroll::-webkit-scrollbar-track {
+  background: rgba(12, 20, 16, 0.4);
+}
+
+.rw-scroll::-webkit-scrollbar-thumb {
+  background: rgba(116, 176, 134, 0.28);
+  border-radius: 999px;
+}
+
+.rw-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(116, 176, 134, 0.48);
+}
