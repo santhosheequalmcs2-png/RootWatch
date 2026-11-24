@@ -1,0 +1,6 @@
+{
+  "name": "RootWatch",
+  "description": "Intelligent Root Health Monitoring Platform — See what's happening below the soil before the plant shows it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
